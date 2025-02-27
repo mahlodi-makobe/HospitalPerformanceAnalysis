@@ -41,5 +41,5 @@ Upon completion, the model can be deployed for real-time hospital use:
 To run locally:
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/HospitalPredictionAnalysis.git
+   git clone https://github.com/mahlodi-makobe/HospitalPredictionAnalysis.git
    cd HospitalPredictionAnalysis
